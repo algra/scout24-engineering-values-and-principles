@@ -2,6 +2,27 @@
 
 ## About
 
+### Version 4, here we go - June 2025
+
+Our Scout24 Engineering Values have not been reviewed for a couple of years.  
+With the rise of AI and the introduction of our [new SCOUT Values](https://www.scout24.com/unternehmen/mission-werte)  
+
+> Simplify, Collaborate, Ownership, Uplift and True Leadership
+
+we think it is a perfect time to review and adjust.
+
+#### Changes
+
+We updated our Engineering Values, removing one or two that were outdated or already addressed with our new SCOUT Values.
+We introduced an AI based value to acknowledge the disruptive change we face right now and also reworked others focussing on 
+slightly different parts of the former values.
+
+#### Yet about to come
+
+We will also update our Engineering Principles soonish. Stay tuned :radio: :wink:
+
+### Welcome to Version 3 - March 2019
+
 Welcome to v3 of the Scout24 Engineering Values and Principles (previously
 "[Scout24 IT
 Principles](https://github.com/Scout24/scout24-it-principles/tree/v2.1)").
@@ -20,7 +41,7 @@ Within these documents, there is no intentional ordering for the purposes of
 emphasis or priority. You should read each value and principle as being of equal
 value to those above and below.
 
-## Changes
+#### Changes
 
 As noted above, this is v3. Those with a math(s) background will deduce there
 must exist a v2. Those people would be right and v2 can still be found
