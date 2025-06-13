@@ -1,60 +1,38 @@
 # Engineering Values
 
-- [Company over team over individual](#company-over-team-over-individual)
-- [Security and reliability](#security-and-reliability)
-- [Moving fast](#moving-fast)
-- [Outcome over effort](#outcome-over-effort)
-- [Ease of people movement](#ease-of-people-movement)
-- [Full ownership and clear responsibility](#full-ownership-and-clear-responsibility)
+**Our Scout24 Engineering Values define what we stand for and what matters most to us.**
+These values guide our daily work and decision-making.
+To bring these values to life we define more concrete Engineering Principles.
 
-Our Engineering Values describe what's important to us, things we value. They
-guide us in our daily work and when decisions have to be made. To bring these
-values to life we define more concrete Engineering Principles and apply them.
-Nonetheless they should of course also be respected in any situation that is not
-covered by the principles.
+## Security and Reliability First
 
-## Company over team over individual
+Security of products and data is our top priority, followed by reliability.  
+We treat security and reliability as shared responsibilities, scaling resilience efforts
+based on product criticality and maturity.
 
-We value decisions that have a positive impact for the entire tech organization
-even if they have a negative impact on our own team. We rationally assess the
-impact and acceptance of both new and current technologies on other teams. We
-look for opportunities to help other teams benefit from what we are building.
+## Standardization at Scale
 
-## Security and reliability
+We align technologies and processes across Scout24's engineering, adhering to agreed standards
+rather than introducing unjustified new tech.
+We embrace platforms, reduce complexity by eliminating redundancies, and balance innovation with
+maintainability to enable team transfers and organizational scaling.
 
-The security of our products, tools, applications and users' data takes our
-highest priority, followed by its reliability. We consider the criticality and
-maturity of a product when deciding the level of effort required for resilience.
-We react with urgency if problems are detected and we apply our security best
-practices to all our applications.
+## End-to-End Ownership
 
-## Moving fast
+Teams fully own their domain's products and services from concept through development, operation,
+continuous evolution, and retirement.
+We organize around business domains, ensuring everything has clear ownership.
 
-We optimize for speed of execution and learning over cost efficiency. We believe
-it is important that teams contain the necessary people and power to build
-features and products without a dependence on other teams. We use common
-platforms and proven technologies to free product engineering teams from
-building infrastructure as a prerequisite to creating value without compromising
-quality.
+## Impact-Driven Development
 
-## Outcome over effort
+We celebrate impact over effort. We validate ideas through data-driven iteration,
+prioritizing quick experiments and lean solutions. We deliver measurable value through simplicity and
+cross-team collaboration, sharing knowledge to maximize impact.
+We're willing to change direction when needed, learning from each experience to improve future work.
 
-We celebrate the impact of our work over the effort we've been putting in or the
-amount of code we produced. We understand the potential impact of our work to
-our business and search for an easy, fast, secure way to validate our ideas
-before writing any code. We accept when these goals cannot be achieved, are
-comfortable moving on and learn from this experience. We reuse existing
-solutions where possible in order to execute and scale the team quickly.
+## AI-Powered Innovation & Capability Improvement
 
-## Ease of people movement
-
-The movement of people into teams with complex, high priority work is an
-important part of how Scout24 will continue to grow as a business. To reduce
-onboarding barriers, we value standardization of technologies and processes
-across Scout24. We value engineers who can work across multiple stacks.
-
-## Full ownership and clear responsibility
-
-We believe teams are responsible for supporting, monitoring, alerting, operating
-and retiring everything they build and maintain. Responsibilities and ownership
-should always be clear and published. Everything must be owned.
+We explore new technologies and fully leverage AI's transformative potential to create innovations
+with meaningful business impact.
+We balance open experimentation with deliberate limits on technology variation.
+We share technology knowledge organization-wide to foster learning and growth.

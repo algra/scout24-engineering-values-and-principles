@@ -14,15 +14,6 @@
 - [Apply principle of least privileges](#apply-principle-of-least-privileges)
 - [Data is a shared asset](#data-is-a-shared-asset)
 
-
-[Company over team over individual]: 1-engineering-values.md#company-over-team-over-individual
-[Security and reliability]: 1-engineering-values.md#security-and-reliability
-[Moving fast]: 1-engineering-values.md#moving-fast
-[Outcome over effort]: 1-engineering-values.md#outcome-over-effort
-[Ease of people movement]: 1-engineering-values.md#ease-of-people-movement
-[Full ownership and clear responsibility]: 1-engineering-values.md#full-ownership-and-clear-responsibility
-
-
 We have expressed [what we value as a Scout24 engineering
 community](1-engineering-values.md) and these values should guide us to good
 engineering practices. In this document, we express the primary principles that
@@ -50,11 +41,6 @@ follow appropriate eXtreme Programming, Scrum, Kanban and Lean software
 development practices to keep maintenance and new feature cycle time under
 control.
 
-### Motivating values
-
-- [Outcome over effort]
-- [Moving fast]
-
 ## Product first
 
 We focus on the value we are delivering to our users, both internal and
@@ -62,11 +48,6 @@ external, and avoid expending time and money on technology for its own sake. To
 achieve this, we incorporate the solutions that meet our needs which are already
 used at Scout24, otherwise preferring existing solutions from AWS, our platform
 teams and open and industry sources.
-
-### Motivating values
-
-- [Company over team over individual]
-- [Outcome over effort]
 
 ## Continuous integration and delivery
 
@@ -80,12 +61,6 @@ part of our safety net. We optimize for
 [MTTR](https://en.wikipedia.org/wiki/Mean_time_to_recovery) over
 [MTBF](https://en.wikipedia.org/wiki/Mean_time_between_failures).
 
-### Motivating values
-
-- [Moving fast]
-- [Outcome over effort]
-- [Company over team over individual]
-
 ## Minimize technology variation
 
 We deliberately minimize the variety of technologies in our system to drive
@@ -95,22 +70,12 @@ gravitate to those that most appropriately address the given challenges
 and selectively experiment with new technologies
 to find those that will improve our products.
 
-### Motivating values
-
-- [Ease of people movement]
-- [Company over team over individual]
-
 ## Embrace platform model
 
 We make full use of our Scout24 platforms, and view platforms as a collaborative
 effort between product and platform teams. To do this, we adopt these platforms
 where ever applicable, and when there are issues adopting them, product and
 platform engineering work together to address gaps.
-
-### Motivating values
-
-- [Company over team over individual]
-- [Moving fast]
 
 ## Autonomous cross-functional teams
 
@@ -120,25 +85,12 @@ the functions needed to take a product from ideation to a well maintained
 running service. We provide the team with resources that support their efforts
 without getting in their way.
 
-### Motivating values
-
-- [Full ownership and clear responsibility]
-- [Outcome over effort]
-- [Moving fast]
-
 ## Automate
 
 We automate repetitive activities to achieve better predictability, efficiency,
 reproducibility, resiliency, and security. To achieve this, we look for
 repetition and write production quality code to automate it, and we strive to
 correct or enhance such automation to avoid further manual repetition.
-
-### Motivating values
-
-- [Security and reliability]
-- [Outcome over effort]
-- [Ease of people movement]
-- [Company over team over individual]
 
 ## Loosely coupled and highly cohesive services
 
@@ -149,11 +101,6 @@ the services to keep things that change together in a single service, and
 between services, we do not share databases but instead use event and then API
 oriented communication.
 
-### Motivating values
-
-- [Full ownership and clear responsibility]
-- [Moving fast]
-
 ## Cleaning is part of work well done
 
 We keep our products and their code clean to ensure a productive work
@@ -161,11 +108,6 @@ environment. To achieve this, we refactor to keep code easily readable and
 aligned with its product domain, we remove unused or unneeded functionality when
 it is identified, and we remove features and their implementation when they are
 not relevant to our customers.
-
-### Motivating values
-
-- [Moving fast]
-- [Ease of people movement]
 
 ## You build it, you run it
 
@@ -175,11 +117,6 @@ To achieve this, we build appropriate reliability patterns into our services,
 monitor their health, promptly bring them back to a healthy state when they fail
 and update their code to prevent such failures from occurring again.
 
-### Motivating values
-
-- [Full ownership and clear responsibility]
-- [Security and reliability]
-
 ## Eliminate accidental complexity
 
 We are diligently keeping complexity at a minimum. To achieve this, we focus on
@@ -187,22 +124,11 @@ addressing current needs, accept that we are poor at predicting future needs,
 establish abstractions only after there are several concrete examples to work
 from and actively reduce complexity that develops over time.
 
-### Motivating values
-
-- [Moving fast]
-- [Company over team over individual]
-- [Ease of people movement]
-
 ## Apply principle of least privileges
 
 Security is important to us. 
 We apply the principle of least privilege in order to reduce the blast radius of security incidents and to
 demonstrate clear ownership and accountability.
-
-### Motivating values
-
-- [Security and reliability]
-- [Full ownership and clear responsibility]
 
 ## Data is a shared asset
 
@@ -212,10 +138,3 @@ valuable data insights from listings, traffic and money that can create more
 delightful experiences for our users and employees. To fulfill this concept we
 follow the [Scout24 Data Landscape
 Manifesto](https://medium.com/@seangustafson/f9816ea10af8).
-
-### Motivating values
-
-- [Company over team over individual]
-- [Moving fast]
-- [Outcome over effort]
-- [Full ownership and clear responsibility]
